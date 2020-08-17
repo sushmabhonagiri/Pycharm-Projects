@@ -1,0 +1,6 @@
+def cost_of_flooring(width,length,cost_per_unit):
+    return (width*length)*cost_per_unit
+
+print("Cost for flooring is")
+print(cost_of_flooring(20,30,5))
+
